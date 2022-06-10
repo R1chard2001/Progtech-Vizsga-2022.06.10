@@ -1,0 +1,16 @@
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\obj\Debug\ProgtecgVizsgaUnitTeszt.csproj.AssemblyReference.cache
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\obj\Debug\ProgtecgVizsgaUnitTeszt.csproj.CoreCompileInputs.cache
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\bin\Debug\ProgtecgVizsgaUnitTeszt.dll
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\bin\Debug\ProgtecgVizsgaUnitTeszt.pdb
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\bin\Debug\ProgtechVizsga.exe
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\bin\Debug\ProgtechVizsga.pdb
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\bin\Debug\ProgtechVizsga.exe.config
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\obj\Debug\ProgtecgVizsgaUnitTeszt.dll
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtecgVizsgaUnitTeszt\obj\Debug\ProgtecgVizsgaUnitTeszt.pdb

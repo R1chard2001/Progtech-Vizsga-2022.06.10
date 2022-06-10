@@ -1,0 +1,7 @@
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtechVizsga\bin\Debug\ProgtechVizsga.exe.config
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtechVizsga\bin\Debug\ProgtechVizsga.exe
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtechVizsga\bin\Debug\ProgtechVizsga.pdb
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtechVizsga\obj\Debug\ProgtechVizsga.csproj.AssemblyReference.cache
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtechVizsga\obj\Debug\ProgtechVizsga.csproj.CoreCompileInputs.cache
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtechVizsga\obj\Debug\ProgtechVizsga.exe
+C:\Users\Ricsi\source\repos\ProgtechVizsga\ProgtechVizsga\obj\Debug\ProgtechVizsga.pdb
